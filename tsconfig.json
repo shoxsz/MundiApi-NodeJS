@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "emitDeclarationOnly": true,
+      "declaration": true,         //emit .d.ts files
+      "declarationDir": "types",
+      "declarationMap": true
+    },
+    "include": ["lib"]
+}
